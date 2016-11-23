@@ -16,7 +16,7 @@
 
     <groupId>org.jibx</groupId>
     <artifactId>oss-parent</artifactId>
-    <version>10</version>
+    <version>10-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Sonatype OSS Parent</name>
